@@ -1,2 +1,2 @@
 # Retail-Sales-Data
-This is Excel project
+## This is an Excel project
