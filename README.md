@@ -66,6 +66,17 @@ Electronics		156905
 	Male	80170
 Grand Total		456000![image](https://github.com/user-attachments/assets/2600cdd0-d3bf-439e-aee8-0915527b160e)
 
+Product Category	Gender	Sum of Total Sales
+Beauty		31.47%
+	Female	16.41%
+	Male	15.06%
+Clothing		34.12%
+	Female	17.82%
+	Male	16.29%
+Electronics		34.41%
+	Female	16.83%
+	Male	17.58%
+Grand Total		100.00%![image](https://github.com/user-attachments/assets/5acc8926-d5dd-4289-8669-80187b57489a)
 
 ## 📁 Dataset Overview 
 
